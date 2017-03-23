@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Service>
+   <Weather>
+     <Weather_location>Adelaide Perth London Melbourne Moscow Ottawa Paris Seoul Shanghai Singapore Sydney Tokyo Toront </Weather_location>
+     <Weather_region>apc ams eur</Weather_region>
+   </Weather>
+</Service>

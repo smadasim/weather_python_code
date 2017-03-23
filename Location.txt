@@ -1,0 +1,13 @@
+Adelaide,-34.93,138.6
+Perth,-31.95,115.86
+London,51.51,-0.13
+Melbourne,-37.81,144.96
+Moscow,55.75,37.62
+Ottawa,45.42,-75.69
+Paris,48.86,2.35
+Shanghai,31.23,121.49
+Singapore,1.29,103.85
+Sydney,-33.85,151.22
+Tokyo,34.23,139.29
+Toronto,43.65,-79.38
+Seoul,37.57,126.98
